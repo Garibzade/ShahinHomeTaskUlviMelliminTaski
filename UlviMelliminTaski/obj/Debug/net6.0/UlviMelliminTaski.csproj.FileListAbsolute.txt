@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\bin\Debug\net6.0\UlviMelliminTaski.exe
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\bin\Debug\net6.0\UlviMelliminTaski.deps.json
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\bin\Debug\net6.0\UlviMelliminTaski.runtimeconfig.json
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\bin\Debug\net6.0\UlviMelliminTaski.dll
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\bin\Debug\net6.0\UlviMelliminTaski.pdb
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.dll
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\refint\UlviMelliminTaski.dll
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.pdb
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\UlviMelliminTaski.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\en son\UlviMelliminTaski\obj\Debug\net6.0\ref\UlviMelliminTaski.dll
